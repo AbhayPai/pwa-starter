@@ -1,0 +1,12 @@
+{
+  "name": "Service Worker",
+  "short_name": "Service Worker",
+  "description": "Service Worker",
+  "dir": "ltr",
+  "lang": "en",
+  "theme_color": "#FFFFFF",
+  "background_color": "#000000",
+  "display": "standalone",
+  "orientation": "natural",
+  "start_url": "/",
+}
