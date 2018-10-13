@@ -1,5 +1,6 @@
 {
   "name": "Service Worker",
+  "display":"standalone",
   "short_name": "Srvceworker",
   "description": "Service Worker",
   "dir": "ltr",
@@ -8,5 +9,6 @@
   "background_color": "#000000",
   "display": "standalone",
   "orientation": "natural",
-  "start_url": "\/"
+  "start_url": "\/",
+  "icon": "\/ap-logo.png"
 }
