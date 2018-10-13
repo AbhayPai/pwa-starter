@@ -1,6 +1,6 @@
 {
   "name": "Service Worker",
-  "short_name": "Service Worker",
+  "short_name": "Srvceworker",
   "description": "Service Worker",
   "dir": "ltr",
   "lang": "en",
@@ -8,5 +8,5 @@
   "background_color": "#000000",
   "display": "standalone",
   "orientation": "natural",
-  "start_url": "/"
+  "start_url": "\/"
 }
