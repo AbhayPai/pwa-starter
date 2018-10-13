@@ -10,5 +10,11 @@
   "display": "standalone",
   "orientation": "natural",
   "start_url": "\/",
-  "icon": "\/ap-logo.png"
+  "icons": [
+    {
+      "src": "/ap-logo.png",
+      "type": "image/png",
+      "sizes": "1000x557"
+    }
+  ]
 }
