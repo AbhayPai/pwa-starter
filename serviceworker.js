@@ -1,7 +1,7 @@
 (function () {
   "use strict";
   var version = 'v2::';
-  var offlineFundamentals = [
+  var pathToCache = [
     '',
     'assets/css/index.css',
   ];
@@ -13,7 +13,7 @@
       caches
         .open(version + 'fundamentals')
         .then(function(cache) {
-          return cache.addAll(offlineFundamentals);
+          return cache.addAll(pathToCache);
         })
         .then(function() {
           console.log('WORKER: install completed');
