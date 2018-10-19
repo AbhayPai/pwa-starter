@@ -4,7 +4,7 @@
   var pathToCache = [
     'index.html',
     'assets/css/index.css',
-    'favicon.ico',
+    'assets/img/favicon.ico',
   ];
 
   self.addEventListener("install", function(event) {
