@@ -1,13 +1,64 @@
 {
-  "name": "Service Worker",
+  "name": "PWA Starter | Abhay Pai",
+  "short_name": "PWA",
+  "start_url": "index.html",
   "display":"standalone",
-  "short_name": "Srvceworker",
-  "description": "Service Worker",
+  "description": "PWA starter is a simple Progressive Web Application Demonstration",
+  "background_color": "#000000",
+  "theme_color": "#FFFFFF",
   "dir": "ltr",
   "lang": "en",
-  "theme_color": "#FFFFFF",
-  "background_color": "#000000",
-  "display": "standalone",
   "orientation": "natural",
-  "start_url": "/index.html"
+  "icons": [
+    {
+      "src": "https://abhaypai.github.io/service-worker/assets/img/16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "https://abhaypai.github.io/service-worker/assets/img/64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "https://abhaypai.github.io/service-worker/assets/img/72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https://abhaypai.github.io/service-worker/assets/img/96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://abhaypai.github.io/service-worker/assets/img/128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://abhaypai.github.io/service-worker/assets/img/144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://abhaypai.github.io/service-worker/assets/img/152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https://abhaypai.github.io/service-worker/assets/img/196x196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    },
+    {
+      "src": "https://abhaypai.github.io/service-worker/assets/img/256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://abhaypai.github.io/service-worker/assets/img/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }

@@ -1,7 +1,11 @@
-# Service Worker
+# PWA Starter
 
-## demonstarting setting up of service worker
+## PWA starter is a simple Progressive Web Application Demonstration.
 
-After installing you site should look like this => [Live Demo](https://abhaypai.github.io/service-worker/)
+It is created using:
+* Service Worker API
+* Manifest File
 
-Checkout out other repository/project from [here](https://github.com/AbhayPai/)
+## Visit [Live Demo](https://abhaypai.github.io/service-worker/)
+
+## Read more on [Progressive Web Application Architecture](https://medium.com/@abhaypai/progressive-web-application-architecture-fd7b69939bf7)
