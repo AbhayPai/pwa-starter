@@ -6,7 +6,9 @@
   // Defining paths to cache.
   var pathToCache = [
     'index.html',
-    '/service-worker/assets/img/favicon.ico',
+    '/pwa-starter/assets/img/16x16.png',
+    '/pwa-starter/assets/img/512x512.png',
+    '/pwa-starter/assets/img/256x256.png',
     'https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css'
   ];
 
